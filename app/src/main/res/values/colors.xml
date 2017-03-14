@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="user_info_message_notice">#E35B5A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="main_green">#24cf5f</color>
+    <color name="actionbar_background">@color/main_green</color>
+    <color name="project_listitem_someinfo">#b6b6b6</color>
+    <color name="colorWhite">#ffffff</color>
+
+
+    <color name="backgroundCard">#FFF5F5F5</color>
+    <color name="textColor">#757575</color>
+    <color name="textColorBg">#eee</color>
+    <color name="bg_press_material">#d4d4d4</color>
+    <color name="text_title_color">#111111</color>
+    <color name="text_desc_color">#6a6a6a</color>
+    <color name="text_secondary_color">#9d9d9d</color>
+    <color name="timeline_clickable_text_highlighted_background">#ffbedfff</color>
+    <color name="main_link_text_color">#ffbedfff</color>
+</resources>

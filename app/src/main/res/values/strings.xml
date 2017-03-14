@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OwnOSChina</string>
+    <string name="tip_double_click_exit">再次点击退出开源中国</string>
+    <string name="theme">夜间</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="main_tab_name_news">综合</string>
+    <string name="main_tab_name_tweet">动弹</string>
+    <string name="main_tab_name_my">我的</string>
+    <string name="main_tab_name_explore">发现</string>
+    <string name="from_mobile">手机</string>
+    <string name="from_android">Android</string>
+    <string name="from_iphone">iPhone</string>
+    <string name="from_windows_phone">Windows Phone</string>
+    <string name="from_wechat">微信</string>
+</resources>

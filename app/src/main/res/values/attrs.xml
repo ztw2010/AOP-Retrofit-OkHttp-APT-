@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColor" format="reference"/>
+    <attr name="backgroundCard" format="color" />
+    <attr name="colorWhite" format="color" />
+    <attr name="themeIcon" format="reference" />
+    <attr name="themeType" format="string" />
+
+    <declare-styleable name="TitleBar">
+        <attr name="aTitle" format="string" />
+        <attr name="aIcon" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="TweetPicturesLayout">
+        <attr name="verticalSpace" format="dimension"/>
+        <attr name="horizontalSpace" format="dimension"/>
+        <attr name="column" format="integer" />
+        <attr name="maxPictureSize" format="dimension" />
+    </declare-styleable>
+</resources>
